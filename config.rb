@@ -1,0 +1,9 @@
+preferred_syntax = :scss
+http_path = '/'
+css_dir = '/' #style.css
+sass_dir = 'assets/sass'
+images_dir = 'assets/images'
+javascripts_dir = 'assets/js'
+relative_assets = true
+line_comments = true #to disable debug, turn false
+output_style = :expanded #after dev compressed
